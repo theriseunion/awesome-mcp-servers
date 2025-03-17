@@ -1,4 +1,4 @@
-**English(https://github.com/theriseunion/awesome-mcp-servers/blob/main/README.md)** | **中文**
+**[English](https://github.com/theriseunion/awesome-mcp-servers/blob/main/README.md)** | **中文**
 
 # 面向开发者的 MCP 服务器
 
