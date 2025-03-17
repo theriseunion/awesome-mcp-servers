@@ -1,3 +1,5 @@
+**English** | [中文](https://github.com/theriseunion/awesome-mcp-servers/blob/main/README_cn.md)
+
 # MCP Servers for Developers
 
 ## Introduction
